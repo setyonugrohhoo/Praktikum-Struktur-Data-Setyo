@@ -380,8 +380,8 @@ Program ini menerima sebuah angka lalu menampilkan pola berbentuk segitiga menur
 
 ### Referensi
 
-https://www.geeksforgeeks.org/cpp/ (diakses pada 27 September 2025).
+http://www.cplusplus.com/doc/tutorial/
 
-http://www.cplusplus.com/doc/tutorial/ (diakses pada 27 September 2025).
+https://www.w3schools.com/CPP/
 
 
