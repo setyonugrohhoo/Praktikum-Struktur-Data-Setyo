@@ -408,9 +408,9 @@ Program juga menampilkan linked list sebelum dan sesudah dibalik agar hasilnya d
 
 Modul 4: Singly Linked List (Bagian Pertama)
 
-[W3school](https://www.w3school.com/cpp/) Diakses pada 13 Oktober 2025
+[W3school](https://www.w3school.com/cpp/) Diakses pada 13 Oktober 2025 jam 23.59
 
-[cplusplus](http://www.cplusplus.com/doc/tutorial/) Diakses pada 13 Oktober 2025
+[cplusplus](http://www.cplusplus.com/doc/tutorial/) Diakses pada 13 Oktober 2025 jam 23.59
 
 
 
